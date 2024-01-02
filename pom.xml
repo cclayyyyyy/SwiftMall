@@ -15,6 +15,7 @@
         <module>SwiftMall-order</module>
         <module>SwiftMall-product</module>
         <module>SwiftMall-ware</module>
+        <module>renren-fast-master</module>
     </modules>
 
 
