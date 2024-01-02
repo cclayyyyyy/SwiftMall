@@ -10,12 +10,13 @@
     <packaging>pom</packaging>
 
     <modules>
+        <module>renren-fast-master</module>
+        <module>renren-generator-master</module>
         <module>SwiftMall-coupon</module>
         <module>SwiftMall-member</module>
         <module>SwiftMall-order</module>
         <module>SwiftMall-product</module>
         <module>SwiftMall-ware</module>
-        <module>renren-fast-master</module>
     </modules>
 
 
