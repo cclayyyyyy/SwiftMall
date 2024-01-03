@@ -8,6 +8,6 @@ public class SwiftMallCouponApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(SwiftMallCouponApplication.class, args);
-    }
 
+    }
 }
